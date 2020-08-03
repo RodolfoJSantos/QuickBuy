@@ -1,0 +1,2 @@
+# QuickBuy
+Angular com AspnetCore
